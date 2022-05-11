@@ -42,7 +42,7 @@ public class Queue{
     // Return the number of elements in queue.
     //Time and space complexity for this function is O(1)
     public int size() {
-        //return stack1.size();
+        return stack1.size();
     }
     //Time and space complexity for this function is O(n)
     public static void main(String[] args) {
