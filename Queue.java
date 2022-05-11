@@ -30,7 +30,7 @@ public class Queue{
     // Get the front element.
     //Time and space complexity for this function is O(1)
     public int peek() {
-        //return stack1.peek();
+        return stack1.peek();
     }
     
     // Return whether the queue is empty.
