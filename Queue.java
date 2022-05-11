@@ -24,7 +24,7 @@ public class Queue{
     // Removes the element from in front of queue.
     //Time and space complexity for this function is O(1)
     public int dequeue() {
-        //return stack1.pop();
+        return stack1.pop();
     }
     
     // Get the front element.
